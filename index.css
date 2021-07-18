@@ -1,6 +1,7 @@
 body {
-    background-color: aqua;
+    background-color: rgb(10, 85, 3);
 }
 h1{
     text-align: center;
+    h2{ border-image-width: border: radius 5%;}
 }
