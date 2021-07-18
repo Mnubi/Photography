@@ -6,4 +6,4 @@
 2. Seasons
 3. Wildlife
 *this is a draft of the webpage
-![](images/draft.jpeg)
+<image src="Images/draft.jpg>
