@@ -1,8 +1,39 @@
 body {
     background-color: rgb(10, 104, 1);
 }
+* {
+    box-sizing: border-box;
+    margin: 0%;
+}
+nav{
+    background:#594848
+    width: 100%;
+    overflow: auto;
+}
+ul{
+    margin:0;
+    padding: 0%;
+    list-style: none;
+}
+li{
+    float: left;
+}
+nav a{
+    width: 200px;
+    display: block;
+    text-align: center;
+    background-color: springgreen;
+    font-size: 17px;
+    color: forestgreen;
+    padding: 30px;
+    font-family: arial;
+}
+nav a:hover{
+    background-color: skyblue;
+    color: rgb(134, 63, 4);
+}
 h1{
-    color: rgb(216, 128, 66);
+    color: rgb(247, 115, 20);
     text-align: center;
     h2{ border-image-width: border:}
     
