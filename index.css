@@ -1,37 +1,26 @@
 body {
     background-color: rgb(10, 104, 1);
 }
-* {
-    box-sizing: border-box;
-    margin: 0%;
-}
-nav{
-    background:#594848
-    width: 100%;
-    overflow: auto;
-}
-ul{
-    margin:0;
-    padding: 0%;
-    list-style: none;
-}
-li{
-    float: left;
+p{
+    text-align: left;
+    font-size: 20px;
 }
 nav a{
     width: 200px;
     display: block;
-    text-align: center;
-    background-color: springgreen;
-    font-size: 17px;
-    color: forestgreen;
-    padding: 30px;
+    text-align: center
+    background-color: rgb(120, 255, 9);
+    font-size: 20px;
+    color: rgb(239, 245, 239);
+    padding: 20px;
     font-family: arial;
+    
 }
 nav a:hover{
     background-color: skyblue;
     color: rgb(134, 63, 4);
 }
+
 h1{
     color: rgb(247, 115, 20);
     text-align: center;
