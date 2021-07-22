@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(10, 104, 1);
+}
+p{
+    text-align: left;
+    font-size: 20px;
+}
+nav a{
+    width: 200px;
+    display: block;
+    text-align: center
+    background-color: rgb(120, 255, 9);
+    font-size: 20px;
+    color: rgb(239, 245, 239);
+    padding: 20px;
+    font-family: arial;
+    
+}
+nav a:hover{
+    background-color: skyblue;
+    color: rgb(134, 63, 4);
+}
+
+h1{
+    color: rgb(247, 115, 20);
+    text-align: center;
+    h2{ border-image-width: border:}
+    
+}
+.natures> .nature{
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+.nature>img{
+    height: 300px;
+    width: 400px;
+}
+
+.deserts> .desert{
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+.desert>img{
+    height: 300px;
+    width: 400px;
+}
+
+.wildlife> .wild{
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+.wild>img{
+    height: 300px;
+    width: 400px;
+}
+img{
+    border-radius: 8%;
+}
+.weather> .seasons{
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+.seasons> img{
+    height: 300px;
+    width: 400px;
+}
