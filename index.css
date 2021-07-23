@@ -1,5 +1,8 @@
 body {
-    background-color: rgb(10, 104, 1);
+    background-color: rgb(4, 34, 1)
+}
+div{
+    background-image:(Images/zoom.jpg);
 }
 p{
     text-align: left;
@@ -26,36 +29,4 @@ h1{
     text-align: center;
     h2{ border-image-width: border:}
     
-}
-.natures> .nature{
-    float: left;
-    width: 33%;
-    text-align: center;
-}
-.nature>img{
-    height: 300px;
-    width: 400px;
-}
-
-.deserts> .desert{
-    float: left;
-    width: 33%;
-    text-align: center;
-}
-.desert>img{
-    height: 300px;
-    width: 400px;
-}
-
-.wildlife> .wild{
-    float: left;
-    width: 33%;
-    text-align: center;
-}
-.wild>img{
-    height: 300px;
-    width: 400px;
-}
-img{
-    border-radius: 8%;
 }

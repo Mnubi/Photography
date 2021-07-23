@@ -14,6 +14,7 @@ nav a{
     color: rgb(239, 245, 239);
     padding: 20px;
     font-family: arial;
+    list-style: :no-button;
     
 }
 nav a:hover{
