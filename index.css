@@ -1,11 +1,13 @@
 body {
-    background-image; image-resolution: ;
+    background-image: url("../Photography/Images/zoom.jpg");
+    background-size: contain;
     background-color: rgb(4, 34, 1)
 }
 div{
     background-image:(Images/zoom.jpg);
 }
 p{
+    color: rgb(150, 241, 12);
     text-align: left;
     font-size: 20px;
 }
@@ -25,8 +27,13 @@ nav a:hover{
     color: rgb(134, 63, 4);
 }
 
-h1{
+h2{
     color: rgb(247, 115, 20);
+    h2{ border-image-width: border:}
+    
+}
+h1{
+    color: rgb(3, 2, 0);
     text-align: center;
     h2{ border-image-width: border:}
     
