@@ -67,7 +67,14 @@ img{
     height: 300px;
     width: 400px;
 }
- 
+footer {
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+}
+
 
 
 

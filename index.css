@@ -29,6 +29,7 @@ nav a:hover{
 .main {
     background-image: url("../Photography/Images/zoom.jpg");
     background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
     background-color: rgb(153, 173, 151)
 }
@@ -75,4 +76,13 @@ footer {
 p {
     margin: 2rem;
     margin-top: 2%;
+}
+.songs a{
+    font-size: 34px;
+    color: rgb(224, 224, 151);
+    padding: opx;
+    font-size: 17px;
+}
+.songs a:hover{
+    color: chartreuse;
 }
