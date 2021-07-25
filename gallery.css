@@ -1,6 +1,7 @@
 body {
     background-color: rgb(10, 104, 1);
 }
+
 p{
     text-align: left;
     font-size: 20px;
@@ -13,15 +14,12 @@ nav a{
     font-size: 20px;
     color: rgb(239, 245, 239);
     padding: 20px;
-    font-family: arial;
-    list-style: :no-button;
-    
+    font-family: arial;    
 }
 nav a:hover{
     background-color: skyblue;
     color: rgb(134, 63, 4);
 }
-
 h1{
     color: rgb(247, 115, 20);
     text-align: center;
@@ -69,3 +67,7 @@ img{
     height: 300px;
     width: 400px;
 }
+ 
+
+
+

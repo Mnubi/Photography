@@ -1,15 +1,16 @@
+.header {
+    width: 1200;
+    float: left;
+}  
+.main {
+    clear: both;
+}
+header {
+    background-color: rgb(6, 158, 158);
+}
 body {
-    background-image: url("../Photography/Images/zoom.jpg");
-    background-size: contain;
-    background-color: rgb(4, 34, 1)
-}
-div{
-    background-image:(Images/zoom.jpg);
-}
-p{
-    color: rgb(150, 241, 12);
-    text-align: left;
-    font-size: 20px;
+    background-color: teal;
+    float: left;
 }
 nav a{
     width: 200px;
@@ -19,8 +20,35 @@ nav a{
     font-size: 20px;
     color: rgb(239, 245, 239);
     padding: 20px;
-    font-family: arial;
-    
+    font-family: arial;    
+}
+nav a:hover{
+    background-color: skyblue;
+    color: rgb(134, 63, 4);
+}
+.main {
+    background-image: url("../Photography/Images/zoom.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(153, 173, 151)
+}
+
+p{
+    color: rgb(150, 241, 12);
+    text-align: left;
+    font-size: 20px;
+}
+nav {
+    float: left
+}
+nav ul {
+    margin: 10px;
+    padding: 1rem;
+    list-style: none;
+}
+nav li {
+    display: inline block;
+
 }
 nav a:hover{
     background-color: skyblue;
@@ -36,5 +64,15 @@ h1{
     color: rgb(3, 2, 0);
     text-align: center;
     h2{ border-image-width: border:}
-    
+}
+footer {
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    background-color: grey;
+    padding: 20px;
+}
+p {
+    margin: 2rem;
+    margin-top: 2%;
 }

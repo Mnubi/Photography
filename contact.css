@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(10, 104, 1);
+}
+p{
+    text-align: left;
+    font-size: 20px;
+}
+nav a{
+    width: 200px;
+    display: block;
+    text-align: center
+    background-color: rgb(120, 255, 9);
+    font-size: 20px;
+    color: rgb(239, 245, 239);
+    padding: 20px;
+    font-family: arial;    
+}
+nav a:hover{
+    background-color: skyblue;
+    color: rgb(134, 63, 4);
+}
+p {margin: 1rem;
+    text-align: center
+    background-color: rgb(120, 255, 9);
+    font-size: 20px;
+    color: black;
+    font-family: arial; 
+}
