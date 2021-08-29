@@ -43,7 +43,7 @@ h1{
 }
 .desert>img{
     height: 300px;
-    width: 350px;
+    width: 300px;
 }
 
 .wildlife> .wild{
@@ -53,7 +53,7 @@ h1{
 }
 .wild>img{
     height: 300px;
-    width: 350px;
+    width: 300px;
 }
 img{
     border-radius: 8%;
@@ -65,7 +65,7 @@ img{
 }
 .seasons> img{
     height: 300px;
-    width: 350px;
+    width: 300px;
 }
 footer {
     font-size: 15px;
