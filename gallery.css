@@ -28,17 +28,17 @@ h1{
 }
 .natures> .nature{
     float: left;
-    width: 33%;
+    width: 30%;
     text-align: center;
 }
 .nature>img{
     height: 300px;
-    width: 400px;
+    width: 350px;
 }
 
 .deserts> .desert{
     float: left;
-    width: 33%;
+    width: 30%;
     text-align: center;
 }
 .desert>img{
@@ -60,7 +60,7 @@ img{
 }
 .weather> .seasons{
     float: left;
-    width: 33%;
+    width: 30%;
     text-align: center;
 }
 .seasons> img{
